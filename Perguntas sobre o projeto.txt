@@ -1,7 +1,7 @@
 1) Qual o tema do projeto? Por que este tema foi escolhido? Quais outros temas foram considerados?
 R: O tema é uma loja online de
 2) Quem são os integrantes do grupo?
-
+R: Luís Fernando Souza Gonçalves - RA:24.123.052-3
 3) Quais bancos serão usados? Quais dados serão armazenados em cada banco? Explique o motivo da escolha de cada banco.
 
 4) Qual linguagem será utilizada e quais são os pacotes necessários? Em qual ambiente será desenvolvido? Explique o motivo da escolha.
